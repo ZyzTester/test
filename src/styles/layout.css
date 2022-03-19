@@ -1,0 +1,39 @@
+#appBar {
+  background-color: #fcc419;
+  height: 3.5rem;
+  margin-top: 0;
+  line-height: 3.5rem;
+  color: black;
+}
+
+#appBar p {
+  margin-left: 1rem;
+  font-size: 1.8rem;
+}
+
+#appBar a {
+  text-decoration: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: black;
+}
+
+#rest {
+  background-color: #202020;
+  color: white;
+  fill: white;
+}
+
+#rest .RaUserMenu-user-24 {
+  display: none;
+}
+
+#user-menu {
+  display: none;
+}
+
+#layout {
+  margin-top: 0 !important;
+}
+/*# sourceMappingURL=layout.css.map */
